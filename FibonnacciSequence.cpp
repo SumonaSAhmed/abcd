@@ -42,8 +42,9 @@ int fib(int n)
 
 int main()
 {
-    int a;
+    int n;
     cin >> n;
+    cout<<"Sumona";
 
     /*vi dp(n + 1);
 
@@ -65,4 +66,4 @@ int main()
     cout << fib(n) << endl;
 
     return 0;
-} 
+}
